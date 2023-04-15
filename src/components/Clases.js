@@ -13,7 +13,7 @@ const main = () => {
       </div>
      
     <div className='bg-white h-[2500px] w-full flex justify-center'>
-    <span className='border-b-0 absolute top-[98em] bg-black m-auto h-[1px] w-96'></span>
+    <span className='border-b-0 absolute top-[9em] bg-black m-auto h-[1px] w-96'></span>
 
     <div className='w-[1500px] max-w-2500 m-auto'>
       {/* CONTENEDOR MAIN */}
