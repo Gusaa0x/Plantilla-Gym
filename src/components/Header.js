@@ -6,8 +6,10 @@ const Header = () => {
   const [isNavOpen, setIsNavOpen] = useState(false); // initiate isNavOpen state with false
   return (
     <div className='z-10' id='inicio'>
-      <div className='flex justify-center items-center m-10 tracking-tighter'><h1 className='text-4xl py-5'>Romina <span className='text-pVerde'>Salas</span></h1></div>
-
+      <div className='flex justify-center items-center m-10 tracking-tighter font-bold'><h1 className='text-4xl py-5 text-gray-800'>Romina <span className='text-pVerde'>Salas</span></h1></div>
+      <div className='w-full flex justify-center items mb-8'>
+      <span className='border-b-0 absolute top-[9em] bg-black m-auto h-[1px] w-44'></span>
+      </div>
       
       <nav className='flex justify-center items-center'>
         <section className="MOBILE-MENU flex lg:hidden">

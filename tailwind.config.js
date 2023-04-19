@@ -12,7 +12,11 @@ module.exports = {
       colors: {
         'pNaranja': '#C2775D',
         'pVerde': '#8FA18D',
-        'pRojo': '#9D1915'
+        'pVerdeTransparente': 'rgba(143, 161, 141, 0.5)',
+        'fondoCirculo': 'rgba(93, 167, 126, 0.41)',
+        'FondoCirculoTransparente': 'rgba(19, 158, 84, 0.09)',
+        'pRojo': '#9D1915',
+        'fondoTransparenteNegro':'rgba(0, 0, 0, 0.04)'
       },
     },
     fontFamily: {
