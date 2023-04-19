@@ -2,7 +2,7 @@
   "name": "rominasalascoach-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gusaa0x.github.io/Plantilla-Gym/",
+  "homepage": "http://gusaa0x.github.io/Plantilla-Gym/",
   "dependencies": {
     "@coreui/react": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.5",
