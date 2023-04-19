@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Plantilla-Gym/static/css/main.26d47c3e.css",
+    "main.js": "/Plantilla-Gym/static/js/main.78276d79.js",
+    "static/js/787.92c7bb66.chunk.js": "/Plantilla-Gym/static/js/787.92c7bb66.chunk.js",
+    "static/media/logo.png": "/Plantilla-Gym/static/media/logo.da444d9ae371cb298d59.png",
+    "index.html": "/Plantilla-Gym/index.html",
+    "main.26d47c3e.css.map": "/Plantilla-Gym/static/css/main.26d47c3e.css.map",
+    "main.78276d79.js.map": "/Plantilla-Gym/static/js/main.78276d79.js.map",
+    "787.92c7bb66.chunk.js.map": "/Plantilla-Gym/static/js/787.92c7bb66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d47c3e.css",
+    "static/js/main.78276d79.js"
+  ]
+}
