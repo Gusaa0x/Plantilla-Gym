@@ -11,9 +11,9 @@ const App = () => {
       <Header/> 
       <Banner/>
       <Clases/>
-      <Separador/>
-      <InfoClases/>
-      <InfoClases/>
+ 
+      {/* <InfoClases/>
+      <InfoClases/> */}
       <Footer/>
     </div>
   )
